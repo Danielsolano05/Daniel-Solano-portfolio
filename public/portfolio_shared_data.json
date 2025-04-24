@@ -1,16 +1,16 @@
 {
     "basic_info": {
-      "name": "author",
+      "name": "Daniel",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "your github",
+          "url": "https://github.com/Danielsolano05",
           "class": "fab fa-github"
         },
         {
           "name": "Linkedin",
-          "url": "your linkedin",
+          "url": "https://www.linkedin.com/in/daniel-solano-palacios-33009b333/",
           "class": "fab fa-linkedin"
         }
       ],

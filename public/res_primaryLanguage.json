@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋Your name. I’m currently learning full stack dev. I’m interested in leveraging tech for impactful solutions. 💜",
+      "description": "👋Your name. I’m currently learning full stack dev. I’m interested in learning tech like software development becuse i Beleve these skilles will help me later in life aswell as in helping me find a job in tech.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "Tea Explorer Website",
-        "startDate": "2023",
-        "description": "Team project; The Tea Explorer website is the culmination of extensive development efforts, representing my most expansive project to date. Throughout its creation, I delved into various technologies and received invaluable feedback from a talented team of curators. This platform aims to alleviate the consumer challenge of navigating the intricate landscape of teas by offering a user-friendly interface centered around an interactive map.",
+        "title": "Two amigos recip website",
+        "startDate": "2025",
+        "description": "Team project the two amigos website was a website i made with my teamate jason for this project we built a website  that allowed us to give people a verity of difrent recipes they could chose from like desert's to main dishes there where even some vegan/vegiterien options.",
         "images": [
           "images/portfolio/tea-explorer/p1.jpg",
           "images/portfolio/tea-explorer/p2.jpg"
