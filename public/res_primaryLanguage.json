@@ -37,12 +37,12 @@
       {
         "title": "personal-project",
         "startDate": "2023",
-        "description": "Personal project; a split landing page that have my job position and skills; click on either box takes you to my resume with timeline. :)",
+        "description": "my pastry project was one of the first projects i did while starting the program while simple it is was a good introduction to what was to come it was a fun and nice first project to do. :)",
         "images": [
-          "images/portfolio/personal-project/p1.jpg",
-          "images/portfolio/personal-project/p2.jpg"
+          "images/portfolio/personal-project/pastryshop.jpg",
+          "images/portfolio/personal-project/pastreyshop2.jpg"
         ],
-        "url": "https://qilinxie02.github.io/resume/",
+        "url": " https://danielsolano05.github.io/pastry-shop/",
         "technologies": [
           {
             "class": "devicon-html5-plain",
